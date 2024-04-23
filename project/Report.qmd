@@ -1,0 +1,23 @@
+---
+title: "The Impact of WAR"
+subtitle: "Unraveling the Migration Mysteries of Ukraine, Kuwait, and Others"
+author: "Cian McCabe"
+date: "2024-04-22"
+format: html
+editor: visual
+---
+
+```{r}
+#|label: setup
+#|include: false
+
+#libaries
+library(tidyverse)
+library(plotly)
+
+
+```
+
+
+
+
